@@ -1,0 +1,8 @@
+{
+  "name": "nodebox",
+  "version": "1.0.0",
+  "description": "a node sandbox to test ",
+  "main": "index.js",
+  "author": "cancio",
+  "license": "MIT"
+}
